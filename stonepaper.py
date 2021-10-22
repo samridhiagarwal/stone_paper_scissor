@@ -31,13 +31,13 @@ else:
   print('>8')
 
 if(player == computer):
-  print('DRAW!')
+  print('DRAW!:(')
   
 elif(player == 'r' and computer == 's'):
-  print('Player wins!')
+  print('Player wins!XD')
   
 elif(player == 'r' and computer == 'p'):
-  print('Computer wins!')
+  print('Computer wins!;(')
   
 elif(player == 'p' and computer == 'r'):
   print('Player wins!')
